@@ -25,7 +25,13 @@ contract ServiceReceiver is CCIPReceiver {
 
     /// @notice Constructor initializes the contract with the router address.
     /// @param router The address of the router contract.
-    constructor(address router) CCIPReceiver(router) {}
+    constructor(address router) CCIPReceiver(router) {
+        /*
+        * Network: Mumbai
+        * Router Address: 0x70499c328e1E2a3c41108bd3730F6670a44595D1
+        * Link Address: 0x779877A7B0D9E8603169DdbD7836e478b4624789
+        */
+    }
 
     /// handle a received message
     function _ccipReceive(
