@@ -13,3 +13,5 @@ For this demo you will need:
 
 ## Development with Remix IDE
 
+## References
+1. [Official Chainlink Discussion](https://docs.chain.link/ccip/getting-started#overview)
