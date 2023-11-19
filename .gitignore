@@ -3,3 +3,6 @@ node_modules/
 .vscode/
 build/
 contracts/artifacts/
+contracts/dNFTExample/artifacts/
+contracts/simpleMessageExample/artifacts/
+contracts/simpleTokenExample/artifacts/

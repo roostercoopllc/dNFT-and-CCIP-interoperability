@@ -1,0 +1,27 @@
+{
+  "name": "Megaopolis Apts: Unit 1",
+  "description": "Unit 1 of the Megaopolis apartments",
+  "image": "https://ipfs.io/ipfs/QmVzm6cq8K9syjyRGwLFmZccD9SgsaXM5kQrRda6AybjdN?filename=highrise-output.png",
+  "attributes": [
+    {
+      "trait_type": "Address",
+      "value": "420 Awesome Street"
+    },
+    {
+      "trait_type": "Built",
+      "value": "1999"
+    },
+    {
+      "trait_type": "Levels",
+      "value": "100"
+    },
+    {
+      "trait_type": "City Importance",
+      "value": "Historic"
+    },
+    {
+      "trait_type": "Unit",
+      "value": "1"
+    }
+  ]
+}
