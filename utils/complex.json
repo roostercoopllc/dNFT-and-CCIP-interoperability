@@ -4,24 +4,20 @@
   "image": "https://ipfs.io/ipfs/QmVzm6cq8K9syjyRGwLFmZccD9SgsaXM5kQrRda6AybjdN?filename=highrise-output.png",
   "attributes": [
     {
-      "trait_type": "Year",
-      "value": "1914"
+      "trait_type": "Address",
+      "value": "420 Awesome Street"
     },
     {
-      "trait_type": "Age",
-      "value": "19"
+      "trait_type": "Built",
+      "value": "1999"
     },
     {
-      "trait_type": "Team",
-      "value": "Crimson Toe Guard"
+      "trait_type": "Levels",
+      "value": "100"
     },
     {
-      "trait_type": "G",
-      "value": "5"
-    },
-    {
-      "trait_type": "AB",
-      "value": "10"
+      "trait_type": "City Importance",
+      "value": "Historic"
     }
   ]
 }
