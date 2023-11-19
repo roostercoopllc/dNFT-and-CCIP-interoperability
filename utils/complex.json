@@ -1,0 +1,27 @@
+{
+  "name": "Megaopolis Apts",
+  "description": "The premier living location for luxury and lifestyle",
+  "image": "https://ipfs.io/ipfs/QmVzm6cq8K9syjyRGwLFmZccD9SgsaXM5kQrRda6AybjdN?filename=highrise-output.png",
+  "attributes": [
+    {
+      "trait_type": "Year",
+      "value": "1914"
+    },
+    {
+      "trait_type": "Age",
+      "value": "19"
+    },
+    {
+      "trait_type": "Team",
+      "value": "Crimson Toe Guard"
+    },
+    {
+      "trait_type": "G",
+      "value": "5"
+    },
+    {
+      "trait_type": "AB",
+      "value": "10"
+    }
+  ]
+}
