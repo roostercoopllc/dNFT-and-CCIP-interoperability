@@ -11,10 +11,12 @@ import "@openzeppelin/contracts/access/Ownable.sol";
  */
 contract AptNFT is ERC721URIStorage, Ownable {
     string constant TOKEN_URI =
-        "https://ipfs.io/ipfs/QmVzm6cq8K9syjyRGwLFmZccD9SgsaXM5kQrRda6AybjdN?filename=highrise-output.png";
+        "https://ipfs.io/ipfs/QmZ6oZyRJGDUBiCHAg4zvEsQwcGf8HqjvppmdL1nGXe3cT?filename=complex.json";
     uint256 internal tokenId;
 
-    constructor(address initialOwner) ERC721("AptNFT", "ANFT") Ownable(initialOwner) {}
+    constructor(
+        address initialOwner
+    ) ERC721("AptNFT", "ANFT") Ownable(initialOwner) {}
 
     function mint(address to) public onlyOwner {
         _safeMint(to, tokenId);
